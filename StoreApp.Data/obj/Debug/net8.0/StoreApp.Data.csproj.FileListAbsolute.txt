@@ -12,3 +12,4 @@ C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\refint\Sto
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.pdb
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.genruntimeconfig.cache
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\ref\StoreApp.Data.dll
+C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.sourcelink.json
