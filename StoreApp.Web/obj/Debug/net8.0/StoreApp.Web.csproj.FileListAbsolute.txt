@@ -125,3 +125,10 @@ C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Web\bin\Debug\net8.0\StoreApp.Da
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Web\bin\Debug\net8.0\StoreApp.Data.pdb
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Web\obj\Debug\net8.0\StoreApp.AB0980F6.Up2Date
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Web\obj\Debug\net8.0\StoreApp.Web.sourcelink.json
+C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Web\bin\Debug\net8.0\libman.json
+C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Web\bin\Debug\net8.0\StoreApp.Web.staticwebassets.runtime.json
+C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Web\bin\Debug\net8.0\StoreApp.Web.staticwebassets.endpoints.json
+C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.StoreApp.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Web\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Web\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

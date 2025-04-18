@@ -1,14 +1,41 @@
 @model ProductListViewModel
 
-<h3>Index Page</h3>
-<hr>
-@foreach (var product in Model.Products)
-{
-    <div>
-        <h4>@product.Name</h4>
-        <p>@product.Description</p>
-        <p>@product.Price</p>
-        <hr>
-    </div>
 
-}
+<div class="row">
+    <div class="col-md-3">
+        <vc:categories-list />
+    </div>
+    <div class="col-md-9">
+        <h3>Products</h3>
+        <hr>
+
+        @if (Model.Products.Count() == 0)
+        {
+            <p>No products found!</p>
+        }
+
+        @foreach (var product in Model.Products)
+        {
+            <div class="card card-outline-secondary my-2 p-2">
+                <div class="d-flex justify-content-between">
+                    <div>
+                        <h4 class="card-header">@product.Name</h4>
+                        <p class="card-body">@product.Description</p>
+                    </div>
+                    <div>
+                        <span class="badge rounded-pill text-bg-success">@product.Price ₺</span>
+                    </div>
+                </div>
+            </div>
+        }
+
+        <div page-model="@Model.PageInfo" page-action="Index" page-class="btn" page-class-link="btn-outline-secondary"
+            page-class-active="btn-secondary" class="btn-group my-2"></div>
+
+
+        @* @for (var i = 1; i <= Model.PageInfo.TotalPages; i++)
+{
+    <a href="/?page=@i">@i</a>
+} *@
+    </div>
+</div>
