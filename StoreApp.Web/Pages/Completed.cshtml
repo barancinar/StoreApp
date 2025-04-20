@@ -1,0 +1,19 @@
+@page
+@{
+    ViewData["Title"] = "Completed";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="text-center">
+    <h2>Teşekkürler!</h2>
+    <p>#@OrderId numaralı siparişiniz oluşturuldu.</p>
+    <p>Siparişiniz başarıyla tamamlandı.</p>
+
+    <a href="/" class="btn btn-primary">Anasayfa</a>
+</div>
+
+@functions {
+    [BindProperty(SupportsGet = true)]
+    public string? OrderId { get; set; }
+}

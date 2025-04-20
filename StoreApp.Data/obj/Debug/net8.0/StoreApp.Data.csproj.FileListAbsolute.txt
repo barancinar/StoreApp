@@ -7,9 +7,9 @@ C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.D
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.AssemblyInfoInputs.cache
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.AssemblyInfo.cs
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.sourcelink.json
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.dll
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\refint\StoreApp.Data.dll
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.pdb
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.genruntimeconfig.cache
 C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\ref\StoreApp.Data.dll
-C:\Users\cinar\Desktop\aspnet\StoreApp\StoreApp.Data\obj\Debug\net8.0\StoreApp.Data.sourcelink.json
